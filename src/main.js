@@ -13,7 +13,7 @@ const menuData = [
       harga: "10.000",
       deskripsi: "Kue lapis premium dengan aroma rempah pilihan.",
       kategori: "Spesial PO",
-      gambar: "/img/klepon.jpg"
+      gambar: "/img/lapis.jpg"
     }
   ];
   
